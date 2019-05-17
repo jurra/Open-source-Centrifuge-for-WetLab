@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:FOSH-following-demand/Open-source-Centrifuge-for-WetLab.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:jurra/Open-source-Centrifuge-for-WetLab.git master:gh-pages
+git push -f git@github.com:jurra/Open-source-Centrifuge-for-WetLab.git gh-pages
 
 cd -
